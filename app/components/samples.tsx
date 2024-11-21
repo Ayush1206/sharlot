@@ -3,17 +3,17 @@ export default function VideoSamples() {
       {
         id: 1,
         title: "Track 1 - Chill Vibes",
-        url: "/videos/sharlot_2.mp4", // Replace with your video file path
+        url: "https://ayushdatanextapps.s3.eu-north-1.amazonaws.com/sharlot_2.mp4", // Replace with your video file path
       },
       {
         id: 2,
         title: "Track 2 - High Energy",
-        url: "/videos/smpl1.mp4", // Replace with your video file path
+        url: "https://ayushdatanextapps.s3.eu-north-1.amazonaws.com/smpl1.MP4", // Replace with your video file path
       },
       {
         id: 3,
         title: "Track 3 - Groovy Beats",
-        url: "/videos/smpl2.mp4", // Replace with your video file path
+        url: "https://ayushdatanextapps.s3.eu-north-1.amazonaws.com/smpl2.MP4", // Replace with your video file path
       },
     ];
   
