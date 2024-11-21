@@ -1,4 +1,5 @@
 "use client"
+import Link from "next/link";
 import React, { useState, useEffect } from "react";
 
 function DesktopNav() {
@@ -8,29 +9,29 @@ function DesktopNav() {
         {/* Centered Navigation */}
         <ul className="flex gap-8 items-center">
           <li>
-            <a href="#about" className="text-lg font-medium hover:underline">
+            <Link href="#about" className="text-lg font-medium hover:underline">
               Home
-            </a>
+            </Link>
           </li>
           <li>
-            <a href="#samples" className="text-lg font-medium hover:underline">
+            <Link href="#samples" className="text-lg font-medium hover:underline">
               Samples
-            </a>
+            </Link>
           </li>
           <li>
-            <a href="/" className="text-3xl font-bold">
+            <Link href="/" className="text-3xl font-bold">
               DJ-Sharlot
-            </a>
+            </Link>
           </li>
           <li>
-            <a href="#events" className="text-lg font-medium hover:underline">
+            <Link href="#events" className="text-lg font-medium hover:underline">
               Events
-            </a>
+            </Link>
           </li>
           <li>
-            <a href="#contact" className="text-lg font-medium hover:underline">
+            <Link href="#contact" className="text-lg font-medium hover:underline">
               Contact
-            </a>
+            </Link>
           </li>
         </ul>
       </nav>

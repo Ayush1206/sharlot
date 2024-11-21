@@ -50,7 +50,7 @@ function DesktopAbout() {
                        
                     </p>
                     <p className="mt-4 text-lg leading-relaxed text-gray-300">
-                        Whether it's pumping up the crowd at a high-energy event or setting
+                        Whether it&apos;s pumping up the crowd at a high-energy event or setting
                         the vibe for an intimate gathering, DJ Sharlot brings passion, energy,
                         and rhythm to every performance.
                     </p>
@@ -90,7 +90,7 @@ function MobileAbout() {
                     creating unforgettable musical journeys.
                 </p>
                 <p className="mt-4 text-sm leading-relaxed text-gray-300">
-                    Whether it's pumping up the crowd at a high-energy event or setting the
+                    Whether it&apos;s pumping up the crowd at a high-energy event or setting the
                     vibe for an intimate gathering, DJ Sharlot brings passion, energy, and
                     rhythm to every performance.
                 </p>
