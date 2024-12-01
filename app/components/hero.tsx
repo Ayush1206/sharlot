@@ -19,12 +19,12 @@ export default function Hero() {
             </div>
 
             {/* Scroll Indicator */}
-            <div className="absolute bottom-10 w-full flex justify-center">
+            {/* <div className="absolute bottom-10 w-full flex justify-center">
                 <div className="animate-bounce text-gray-300">
                     <p>Scroll Down</p>
                     <span className="block w-6 h-6 border-t-2 border-l-2 border-gray-300 rotate-45 mt-2"></span>
                 </div>
-            </div>
+            </div> */}
         </section>
     );
 }
